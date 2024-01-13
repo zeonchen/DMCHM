@@ -27,7 +27,7 @@ The trained model will be named as *best_model.pth*.
 
 ## Simulation
 
-We also provide simulation environment based on [Highway-Env](https://github.com/Farama-Foundation/HighwayEnv). Please note that we implement the simulation in a merging scenario, and several environmental files are changed. Hence, the users should establish or place the original files under *./site-packages/highway_env/*. Specifically,
+We also provide simulation environment based on [Highway-Env](https://github.com/Farama-Foundation/HighwayEnv). Please note that we implement the simulation in a merging scenario, and several environmental files are changed. Hence, the users should establish or replace the original files under *./site-packages/highway_env/* with the given files. These files are in the *simulation_env file*. Specifically,
 
 - road.py -> ./highway_env/road/road.py
 - kinematics.py -> ./highway_env/vehicle/kinematics.py
@@ -39,7 +39,7 @@ Afterwards, the *scaler.pkl* and *best_model.pth* should be put under the simula
 
 Here is a sample simulation, we can observe many discretionary lane-changing maneuvers:
 
-<img src="img/sample.gif" alt="sample" width="1000" />
+<img src="img/sample.gif" alt="sample" width="1200" />
 
 
 
