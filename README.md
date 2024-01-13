@@ -1,5 +1,7 @@
 #  Deep Markov Cognitive Hierarchy Model (DMCHM)
- This repository includes codes of the paper named **Combining Time Dependency and Behavioral Game: A Deep Markov Cognitive Hierarchy Model for Human-Like Discretionary Lane Changing Modeling**. In the paper, we propose a novel model, called Deep Markov Cognitive Hierarchy Model (DMCHM) which combines time dependency and behavioral game interaction for discretionary lane-changing modeling. Specifically, the lane-changing interaction process between the subject vehicle and the following vehicle in the target lane is modeled as a two-player game. We then introduce three dynamic latent variables for interaction aggressiveness, cognitive level, and payoffs based on the Hidden Markov Model.
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![star](https://img.shields.io/github/stars/zeonchen/DMCHM.svg)![license](https://img.shields.io/github/license/zeonchen/DMCHM.svg)
+
+This repository includes codes of the paper named **Combining Time Dependency and Behavioral Game: A Deep Markov Cognitive Hierarchy Model for Human-Like Discretionary Lane Changing Modeling**. In the paper, we propose a novel model, called Deep Markov Cognitive Hierarchy Model (DMCHM) which combines time dependency and behavioral game interaction for discretionary lane-changing modeling. Specifically, the lane-changing interaction process between the subject vehicle and the following vehicle in the target lane is modeled as a two-player game. We then introduce three dynamic latent variables for interaction aggressiveness, cognitive level, and payoffs based on the Hidden Markov Model.
 
 Here is a sample simulation, we can observe many discretionary lane-changing maneuvers:
 
