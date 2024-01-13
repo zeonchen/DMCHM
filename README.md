@@ -3,7 +3,7 @@
 
 ## Model Overview
 
-<img src="img/model.png" alt="model" style="zoom:60%;" />
+<img src="img/model.png" alt="model" style="zoom:30%;" />
 
 
 
