@@ -3,7 +3,7 @@
 
 ## Model Overview
 
-<img src="img/model.png" alt="model" width="300" />
+<img src="img/model.png" alt="model" width="600" />
 
 
 
@@ -39,7 +39,7 @@ Afterwards, the *scaler.pkl* and *best_model.pth* should be put under the simula
 
 Here is a sample simulation, we can observe many discretionary lane-changing maneuvers:
 
-<img src="img/sample.gif" alt="sample" style="zoom:200%;" />
+<img src="img/sample.gif" alt="sample" width="1000" />
 
 
 
